@@ -1,8 +1,6 @@
-# Stats Calculator GUI
+# Single Sample Stats Calculator GUI
 
-## Overview
-
-The **Stats Calculator GUI** is a Python-based application that provides an interactive, graphical interface for performing a range of statistical calculations. Built with Tkinter and powered by SciPy, the calculator is designed for educational and practical use, allowing you to compute:
+The **Single Sample Stats Calculator GUI** is Built with Tkinter and powered by SciPy, allowing you to compute:
 
 - **Confidence Intervals** (for means, variances, and proportions)
 - **Hypothesis Tests** (for means, variances, and proportions)
