@@ -1,7 +1,3 @@
-Below is a sample README.md you can include in your new GitHub repository:
-
----
-
 # Stats Calculator GUI
 
 ## Overview
